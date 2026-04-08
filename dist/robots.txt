@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-econo-air-inc.dream-surge.com/sitemap-index.xml

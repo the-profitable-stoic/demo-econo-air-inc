@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Econo-Air Inc",
+    "phone": "+16618321700",
+    "category": "HVAC contractor",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Bakersfield's HVAC Experts",
+      "heroSubline": "Reliable heating and cooling services for homes and businesses in Kern County. Get a free estimate today!",
+      "aboutTitle": "Keeping Bakersfield Comfortable Since 2012",
+      "aboutText": [
+        "Econo-Air Inc. was founded on the principle of providing honest, dependable HVAC services to our neighbors in Bakersfield. We understood the challenges of Kern County's extreme temperatures and wanted to offer solutions that were both effective and affordable.",
+        "Our approach is simple: diagnose the problem accurately, explain the options clearly, and deliver quality workmanship every time. We value integrity, transparency, and customer satisfaction above all else.",
+        "We're proud to be a part of the Bakersfield community. We support local charities and organizations, and we're committed to providing reliable HVAC services that keep our city comfortable year-round."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team is highly trained and certified to handle any HVAC issue, big or small."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before any work begins."
+        },
+        {
+          "title": "Fast & Reliable Service",
+          "description": "We understand the urgency of HVAC problems and respond quickly to your needs."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "We stand behind our work with a satisfaction guarantee. Your comfort is our priority."
+        }
+      ],
+      "ctaHeadline": "Stay Cool, Bakersfield!",
+      "ctaSubline": "Schedule your HVAC service today and experience the Econo-Air difference."
+    },
+    "services": [
+      {
+        "slug": "air-conditioning-repair",
+        "name": "Air Conditioning Repair",
+        "shortDescription": "Fast and reliable AC repair services to beat the Bakersfield heat.",
+        "description": "When your air conditioner breaks down in the middle of a Bakersfield summer, you need fast, reliable service. Econo-Air Inc. specializes in diagnosing and repairing all types of AC systems, from central air units to ductless mini-splits. We understand the urgency of AC problems and offer prompt service to get your system back up and running quickly.\n\nOur experienced technicians will thoroughly inspect your AC unit to identify the root cause of the problem. We'll explain the issue clearly and provide you with a transparent estimate before any work begins. We use only high-quality parts and materials to ensure lasting repairs.\n\nWhether it's a refrigerant leak, a faulty compressor, or a malfunctioning thermostat, we have the expertise to handle it. We service all major brands and models of air conditioners. Don't suffer through another sweltering day – call Econo-Air Inc. for expert AC repair.",
+        "process": [
+          "Step 1: Diagnose the AC system issue",
+          "Step 2: Provide upfront pricing for the repair",
+          "Step 3: Complete the repair with quality parts",
+          "Step 4: Test the system to ensure proper operation"
+        ],
+        "benefits": [
+          "Fast and reliable service",
+          "Experienced and certified technicians",
+          "Upfront pricing with no hidden fees",
+          "Quality repairs that last"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you come out for an AC repair?",
+            "answer": "We offer same-day and next-day appointments for AC repair in most cases. We understand the urgency of these situations, especially during the summer heat."
+          },
+          {
+            "question": "Do you service all brands of AC units?",
+            "answer": "Yes, we service all major brands and models of air conditioners, including Carrier, Trane, Lennox, and more."
+          },
+          {
+            "question": "What are the signs that my AC unit needs repair?",
+            "answer": "Common signs include weak airflow, strange noises, warm air blowing, and frequent cycling on and off."
+          }
+        ]
+      },
+      {
+        "slug": "air-conditioning-installation",
+        "name": "Air Conditioning Installation",
+        "shortDescription": "Expert AC installation for homes and businesses in Bakersfield.",
+        "description": "Investing in a new air conditioning system is a significant decision, especially in Bakersfield's climate. Econo-Air Inc. provides expert AC installation services to ensure your home or business stays cool and comfortable. We'll help you choose the right system for your needs and budget, and we'll install it with precision and care.\n\nWe start with a thorough assessment of your property to determine the appropriate size and type of AC unit. We consider factors such as square footage, insulation, and window placement to ensure optimal performance and energy efficiency. We offer a wide selection of AC systems from leading brands, including energy-efficient models that can save you money on your utility bills.\n\nOur installation process includes proper ductwork sealing, refrigerant charging, and system testing. We'll also explain how to operate and maintain your new AC system. With Econo-Air Inc., you can be confident that your AC installation will be done right the first time.",
+        "process": [
+          "Step 1: Assess cooling needs and recommend best AC system",
+          "Step 2: Provide a detailed installation estimate",
+          "Step 3: Perform expert installation and testing",
+          "Step 4: Explain system operation and maintenance"
+        ],
+        "benefits": [
+          "Properly sized and installed AC system",
+          "Improved energy efficiency and lower utility bills",
+          "Increased comfort and cooling performance",
+          "Peace of mind with professional installation"
+        ],
+        "faq": [
+          {
+            "question": "How do I know what size AC unit I need?",
+            "answer": "We'll perform a load calculation to determine the appropriate size AC unit for your home or business. This ensures optimal cooling performance and energy efficiency."
+          },
+          {
+            "question": "Do you offer financing options for AC installation?",
+            "answer": "Yes, we offer flexible financing options to make AC installation more affordable. Contact us to learn more."
+          },
+          {
+            "question": "How long does AC installation take?",
+            "answer": "The installation time varies depending on the complexity of the job, but most installations can be completed in one day."
+          }
+        ]
+      },
+      {
+        "slug": "heater-repair",
+        "name": "Heater Repair",
+        "shortDescription": "Reliable heater repair services for Bakersfield homes and businesses.",
+        "description": "Even though Bakersfield winters are mild, a functioning heater is still essential for comfort. Econo-Air Inc. offers prompt and reliable heater repair services to keep your home or business warm. We service all types of heating systems, including furnaces, heat pumps, and ductless heaters.\n\nOur experienced technicians will quickly diagnose the problem and provide you with a transparent estimate for the repair. We use only high-quality parts and materials to ensure lasting results. Whether it's a faulty igniter, a broken blower motor, or a malfunctioning thermostat, we have the expertise to handle it.\n\nWe understand the importance of a properly functioning heater, especially during the colder months. That's why we offer 24/7 emergency heater repair services. Don't shiver through another cold night – call Econo-Air Inc. for expert heater repair.",
+        "process": [
+          "Step 1: Diagnose the heating system issue",
+          "Step 2: Provide upfront pricing for the repair",
+          "Step 3: Complete the repair with quality parts",
+          "Step 4: Test the system to ensure proper operation"
+        ],
+        "benefits": [
+          "Fast and reliable service",
+          "Experienced and certified technicians",
+          "Upfront pricing with no hidden fees",
+          "Quality repairs that last"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs that my heater needs repair?",
+            "answer": "Common signs include strange noises, weak airflow, cold air blowing, and frequent cycling on and off."
+          },
+          {
+            "question": "Do you offer 24/7 emergency heater repair?",
+            "answer": "Yes, we offer 24/7 emergency heater repair services to ensure your comfort, even in the middle of the night."
+          },
+          {
+            "question": "How often should I have my heater serviced?",
+            "answer": "We recommend having your heater serviced annually to ensure optimal performance and prevent costly repairs."
+          }
+        ]
+      },
+      {
+        "slug": "heater-installation",
+        "name": "Heater Installation",
+        "shortDescription": "Professional heater installation services for homes and businesses.",
+        "description": "When it's time to replace your old heater, Econo-Air Inc. provides expert heater installation services to ensure your home or business stays warm and comfortable. We'll help you choose the right system for your needs and budget, and we'll install it with precision and care.\n\nWe offer a wide selection of heating systems from leading brands, including energy-efficient models that can save you money on your utility bills. Our installation process includes proper ductwork sealing, gas line connections, and system testing. We'll also explain how to operate and maintain your new heating system.\n\nWith Econo-Air Inc., you can be confident that your heater installation will be done right the first time. We're committed to providing quality workmanship and exceptional customer service.",
+        "process": [
+          "Step 1: Assess heating needs and recommend best heating system",
+          "Step 2: Provide a detailed installation estimate",
+          "Step 3: Perform expert installation and testing",
+          "Step 4: Explain system operation and maintenance"
+        ],
+        "benefits": [
+          "Properly sized and installed heating system",
+          "Improved energy efficiency and lower utility bills",
+          "Increased comfort and heating performance",
+          "Peace of mind with professional installation"
+        ],
+        "faq": [
+          {
+            "question": "How do I know what size heater I need?",
+            "answer": "We'll perform a load calculation to determine the appropriate size heater for your home or business. This ensures optimal heating performance and energy efficiency."
+          },
+          {
+            "question": "Do you offer financing options for heater installation?",
+            "answer": "Yes, we offer flexible financing options to make heater installation more affordable. Contact us to learn more."
+          },
+          {
+            "question": "What type of heater is best for my home?",
+            "answer": "The best type of heater depends on your specific needs and budget. We can help you choose the right system for your home."
+          }
+        ]
+      },
+      {
+        "slug": "duct-cleaning",
+        "name": "Duct Cleaning",
+        "shortDescription": "Improve your indoor air quality with professional duct cleaning services.",
+        "description": "Over time, dust, pollen, and other contaminants can accumulate in your air ducts, affecting your indoor air quality and potentially triggering allergies or respiratory problems. Econo-Air Inc. offers professional duct cleaning services to remove these contaminants and improve the air you breathe.\n\nOur experienced technicians use specialized equipment to thoroughly clean your air ducts, removing dust, debris, and allergens. We also sanitize your ducts to kill mold and bacteria. Duct cleaning can improve your HVAC system's efficiency, reduce energy costs, and create a healthier indoor environment for your family or employees.\n\nIf you notice excessive dust in your home, musty odors, or allergy symptoms, it may be time for duct cleaning. Contact Econo-Air Inc. to schedule a duct cleaning appointment and breathe easier.",
+        "process": [
+          "Step 1: Inspect the ductwork system",
+          "Step 2: Use specialized equipment to dislodge debris",
+          "Step 3: Vacuum and remove contaminants from the ductwork",
+          "Step 4: Sanitize the ductwork to kill mold and bacteria"
+        ],
+        "benefits": [
+          "Improved indoor air quality",
+          "Reduced allergens and respiratory problems",
+          "Improved HVAC system efficiency",
+          "Lower energy costs"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my ducts cleaned?",
+            "answer": "We recommend having your ducts cleaned every 3-5 years, or more frequently if you have pets, allergies, or respiratory problems."
+          },
+          {
+            "question": "Is duct cleaning messy?",
+            "answer": "No, our duct cleaning process is designed to be clean and efficient. We use specialized equipment to contain dust and debris."
+          },
+          {
+            "question": "Can duct cleaning help with allergies?",
+            "answer": "Yes, duct cleaning can remove allergens such as dust mites, pollen, and pet dander, which can help reduce allergy symptoms."
+          }
+        ]
+      },
+      {
+        "slug": "hvac-maintenance",
+        "name": "HVAC Maintenance",
+        "shortDescription": "Keep your HVAC system running smoothly with regular maintenance.",
+        "description": "Regular HVAC maintenance is essential for ensuring optimal performance, energy efficiency, and longevity of your heating and cooling systems. Econo-Air Inc. offers comprehensive HVAC maintenance services to keep your systems running smoothly year-round.\n\nOur maintenance services include cleaning coils, checking refrigerant levels, inspecting electrical components, lubricating moving parts, and testing system performance. Regular maintenance can prevent costly repairs, extend the life of your HVAC system, and improve your indoor air quality.\n\nWe offer customized maintenance plans to fit your specific needs and budget. Contact Econo-Air Inc. to schedule your HVAC maintenance appointment and protect your investment.",
+        "process": [
+          "Step 1: Inspect the HVAC system components",
+          "Step 2: Clean coils and filters",
+          "Step 3: Check refrigerant levels and pressure",
+          "Step 4: Lubricate moving parts and test system performance"
+        ],
+        "benefits": [
+          "Improved HVAC system performance",
+          "Reduced energy costs",
+          "Extended system lifespan",
+          "Prevention of costly repairs"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my HVAC system maintained?",
+            "answer": "We recommend having your HVAC system maintained at least once a year, or twice a year for optimal performance."
+          },
+          {
+            "question": "What is included in an HVAC maintenance appointment?",
+            "answer": "Our maintenance appointments include a thorough inspection, cleaning, and testing of your HVAC system components."
+          },
+          {
+            "question": "Can HVAC maintenance prevent costly repairs?",
+            "answer": "Yes, regular maintenance can identify and address potential problems before they become major repairs."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "Econo-Air Inc is proud to serve the Bakersfield community with top-notch HVAC services. We understand the unique climate challenges that Bakersfield homeowners face, from scorching summers to chilly winter nights. Our team of experienced technicians is committed to providing reliable and efficient heating and cooling solutions to keep your home comfortable year-round.\n\nWhether you need a new AC installation, furnace repair, or routine maintenance, Econo-Air Inc has you covered. We offer a wide range of services to meet your specific needs and budget. We pride ourselves on our prompt, professional service and our dedication to customer satisfaction. Trust Econo-Air Inc to be your trusted HVAC partner in Bakersfield.\n\nWe also offer indoor air quality services to help improve the air you breathe inside your home. From air purifiers to duct cleaning, we can help you create a healthier and more comfortable living environment.",
+        "localContext": "Bakersfield is a vibrant city known for its agricultural heritage, country music scene, and proximity to the southern Sierra Nevada mountains.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "Econo-Air Inc extends its expert HVAC services to the residents of Oildale, CA. We understand the specific needs of this community and are dedicated to providing reliable and affordable heating and cooling solutions. Our team is equipped to handle any HVAC issue, from minor repairs to complete system replacements.\n\nWe are committed to providing exceptional customer service and ensuring your complete satisfaction. Econo-Air Inc offers a comprehensive range of HVAC services, including air conditioning repair and installation, furnace maintenance, and duct cleaning. We use only the highest quality parts and equipment to ensure lasting performance.\n\nEcono-Air Inc is committed to making sure your home is comfortable, no matter the season. We're also proud to offer financing options to help you manage the cost of your HVAC service needs.",
+        "localContext": "Oildale is a close-knit community with a strong sense of local pride and a rich history rooted in the oil industry.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Delano"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "Econo-Air Inc is pleased to offer our comprehensive HVAC services to the Rosedale community. We understand the importance of a comfortable home environment, and we are dedicated to providing reliable and efficient heating and cooling solutions to keep you comfortable year-round. Whether you need routine maintenance, emergency repairs, or a complete system upgrade, our team of experienced technicians is ready to assist you.\n\nAt Econo-Air Inc, we pride ourselves on our commitment to customer satisfaction. We offer competitive pricing, transparent communication, and exceptional service. We use only the highest quality parts and equipment to ensure lasting performance and reliability. We're dedicated to providing the best HVAC service in Rosedale.\n\nOur team stays up-to-date with the latest HVAC technologies to ensure we can offer you the most energy-efficient and cost-effective solutions.",
+        "localContext": "Rosedale is a growing residential area known for its family-friendly atmosphere and proximity to agricultural lands.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Shafter",
+          "Oildale"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "Econo-Air Inc is proud to serve the Shafter, CA community with reliable and affordable HVAC services. We understand the importance of a comfortable and energy-efficient home, especially during the hot summer months. Our team of experienced technicians is committed to providing top-notch service and ensuring your complete satisfaction.\n\nWe offer a wide range of HVAC services to meet your specific needs, including air conditioning repair and installation, furnace maintenance, and indoor air quality solutions. Econo-Air Inc is dedicated to providing Shafter residents with the best HVAC services to keep their homes comfortable all year long.\n\nWe offer 24/7 emergency services so you can rest assured that we'll be there when you need us most.",
+        "localContext": "Shafter is a thriving agricultural community known for its rich history and strong sense of community.",
+        "nearbyAreas": [
+          "Wasco",
+          "Rosedale",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "Econo-Air Inc is delighted to extend our expert HVAC services to the residents of Wasco, CA. We understand the unique climate challenges faced by homeowners in this region, and we are committed to providing reliable and affordable heating and cooling solutions. Whether you need routine maintenance, emergency repairs, or a complete system replacement, our team of skilled technicians is ready to assist you.\n\nAt Econo-Air Inc, we prioritize customer satisfaction above all else. We offer competitive pricing, transparent communication, and exceptional service. We use only the highest quality parts and equipment to ensure lasting performance and reliability. We strive to keep your home comfortable and your HVAC system running smoothly.\n\nCall us today to schedule an appointment for HVAC services in Wasco. We're here to help!",
+        "localContext": "Wasco is a charming town known for its agricultural economy and friendly community atmosphere.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "Tehachapi",
+        "slug": "tehachapi-ca",
+        "state": "CA",
+        "content": "Econo-Air Inc proudly offers HVAC services to Tehachapi, CA, providing expert heating and cooling solutions to residents and businesses. We understand the unique climate in Tehachapi, with its hot summers and cold winters, and we're dedicated to ensuring your indoor comfort year-round. Our experienced technicians are equipped to handle all your HVAC needs, from routine maintenance to emergency repairs and new installations.\n\nWe are committed to providing top-quality service and customer satisfaction. Econo-Air Inc offers competitive pricing, transparent communication, and reliable workmanship. We use only the best equipment and materials to ensure the longevity and efficiency of your HVAC system. We want to be your trusted HVAC provider in Tehachapi.\n\nWe are also proud to offer energy-efficient solutions that can help you save money on your utility bills.",
+        "localContext": "Tehachapi is a mountain town known for its scenic beauty, wind farms, and railroad history.",
+        "nearbyAreas": [
+          "Mojave",
+          "California City",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "Econo-Air Inc is pleased to bring our comprehensive HVAC services to Arvin, CA. We recognize the importance of a properly functioning HVAC system, especially during Arvin's hot summers. Our team of skilled technicians is dedicated to providing reliable and affordable solutions to keep your home comfortable year-round. We offer a full range of services, including repairs, maintenance, and new installations.\n\nAt Econo-Air Inc, we prioritize customer satisfaction. We strive to provide prompt, professional, and courteous service to every customer. We are committed to using high-quality parts and equipment to ensure the longevity and efficiency of your HVAC system. We want to earn your trust as your go-to HVAC provider in Arvin.\n\nWe also offer financing options to help make HVAC services more affordable for our customers.",
+        "localContext": "Arvin is an agricultural community known for its grape and almond production.",
+        "nearbyAreas": [
+          "Lamont",
+          "Bakersfield",
+          "Weedpatch"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "Econo-Air Inc is proud to serve the residents of Lamont, CA with our expert HVAC services. We understand the importance of having a reliable heating and cooling system, especially during the extreme weather conditions in Lamont. Our experienced technicians are dedicated to providing top-quality service and ensuring your complete satisfaction.\n\nWe offer a wide range of HVAC services to meet your specific needs, including air conditioning repair and installation, furnace maintenance, and indoor air quality solutions. Econo-Air Inc is committed to providing Lamont residents with the best HVAC services to keep their homes comfortable all year long.\n\nWe also offer emergency services to ensure that you're never without heat or air conditioning when you need it most.",
+        "localContext": "Lamont is a small, close-knit community located in the heart of Kern County's agricultural region.",
+        "nearbyAreas": [
+          "Arvin",
+          "Bakersfield",
+          "Weedpatch"
+        ]
+      },
+      {
+        "city": "Delano",
+        "slug": "delano-ca",
+        "state": "CA",
+        "content": "Econo-Air Inc provides top-notch HVAC services in Delano, CA, ensuring residents stay comfortable year-round. We understand the importance of a reliable heating and cooling system, particularly with Delano's hot summers. Our skilled technicians are equipped to handle any HVAC issue, from routine maintenance to emergency repairs and new installations.\n\nWe pride ourselves on delivering exceptional customer service and building lasting relationships with our clients. Econo-Air Inc offers competitive pricing, transparent communication, and reliable workmanship. We use only high-quality parts and equipment to ensure the longevity and efficiency of your HVAC system.\n\nWe also offer financing options and rebates to help make our services more accessible and affordable.",
+        "localContext": "Delano is a vibrant city known for its rich agricultural heritage and community spirit.",
+        "nearbyAreas": [
+          "McFarland",
+          "Wasco",
+          "Earlimart"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Air Conditioning Repair",
+        "text": "Econo-Air was quick to respond when my AC went out during a heat wave. The technician, David, was professional and explained the problem clearly. He fixed it quickly and the price was fair. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 4,
+        "service": "Heater Installation",
+        "text": "We needed a new heater installed in our older home in Oleander-Sunset. Econo-Air gave us a great price and the installation team was very efficient. They even helped us understand the new thermostat. Minor issue with the scheduling, but overall a good experience.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Duct Cleaning",
+        "text": "I noticed a lot of dust in my house and suspected it was coming from the vents. Econo-Air cleaned our ducts and the difference is amazing! The air feels cleaner and my allergies have improved. Thank you!",
+        "date": "2025-03-01"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "AC Installation",
+        "text": "These guys are pros. Had a new high-efficiency AC system installed. The crew was on time, did a super clean install, and walked me through the whole system. Worth every penny.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Ashley G.",
+        "rating": 4,
+        "service": "HVAC Maintenance",
+        "text": "Signed up for their annual maintenance plan. The technician was thorough and identified a potential issue with our furnace before it became a major problem. Appreciate the attention to detail!",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Kevin R.",
+        "rating": 5,
+        "service": "Air Conditioning Repair",
+        "text": "Called Econo-Air for an AC repair on a Saturday. They were able to come out within a couple of hours and fix the problem. Very impressed with their responsiveness and professionalism. Will definitely use them again.",
+        "date": "2025-01-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Econo-Air Inc | Bakersfield HVAC",
+        "description": "Reliable HVAC services in Bakersfield, CA. AC & heater repair, installation, & maintenance. Call today!"
+      },
+      "about": {
+        "title": "About Econo-Air Inc | Bakersfield, CA",
+        "description": "Learn about Econo-Air Inc, Bakersfield's trusted HVAC contractor. Quality service and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "HVAC Services | Econo-Air Inc Bakersfield",
+        "description": "Comprehensive HVAC services in Bakersfield. AC repair, heater installation, duct cleaning, and more. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Econo-Air Inc | Bakersfield HVAC",
+        "description": "Contact Econo-Air Inc for reliable HVAC services in Bakersfield, CA. Call us today for a free estimate!"
+      },
+      "reviews": {
+        "title": "Econo-Air Inc Reviews | Bakersfield HVAC",
+        "description": "Read reviews from satisfied Econo-Air Inc customers in Bakersfield, CA. See why we're the top choice for HVAC services."
+      },
+      "service-areas": {
+        "title": "Econo-Air Inc Service Areas | Bakersfield",
+        "description": "Econo-Air Inc provides HVAC services in Bakersfield and surrounding areas. See our complete service area list."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "air-conditioning-repair": "/images/service-air-conditioning-repair.webp",
+      "air-conditioning-installation": "/images/service-air-conditioning-installation.webp",
+      "heater-repair": "/images/service-heater-repair.webp",
+      "heater-installation": "/images/service-heater-installation.webp",
+      "duct-cleaning": "/images/service-duct-cleaning.webp",
+      "hvac-maintenance": "/images/service-hvac-maintenance.webp"
+    },
+    "servicesResponsive": {
+      "air-conditioning-repair": {
+        "src": "/images/service-air-conditioning-repair.webp",
+        "srcset": "/images/service-air-conditioning-repair-400w.webp 400w, /images/service-air-conditioning-repair-800w.webp 800w, /images/service-air-conditioning-repair-1200w.webp 1200w, /images/service-air-conditioning-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "air-conditioning-installation": {
+        "src": "/images/service-air-conditioning-installation.webp",
+        "srcset": "/images/service-air-conditioning-installation-400w.webp 400w, /images/service-air-conditioning-installation-800w.webp 800w, /images/service-air-conditioning-installation-1200w.webp 1200w, /images/service-air-conditioning-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heater-repair": {
+        "src": "/images/service-heater-repair.webp",
+        "srcset": "/images/service-heater-repair-400w.webp 400w, /images/service-heater-repair-800w.webp 800w, /images/service-heater-repair-1200w.webp 1200w, /images/service-heater-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "heater-installation": {
+        "src": "/images/service-heater-installation.webp",
+        "srcset": "/images/service-heater-installation-400w.webp 400w, /images/service-heater-installation-800w.webp 800w, /images/service-heater-installation-1200w.webp 1200w, /images/service-heater-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "duct-cleaning": {
+        "src": "/images/service-duct-cleaning.webp",
+        "srcset": "/images/service-duct-cleaning-400w.webp 400w, /images/service-duct-cleaning-800w.webp 800w, /images/service-duct-cleaning-1200w.webp 1200w, /images/service-duct-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hvac-maintenance": {
+        "src": "/images/service-hvac-maintenance.webp",
+        "srcset": "/images/service-hvac-maintenance-400w.webp 400w, /images/service-hvac-maintenance-800w.webp 800w, /images/service-hvac-maintenance-1200w.webp 1200w, /images/service-hvac-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
